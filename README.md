@@ -5,9 +5,7 @@ App Description
 This app allows users to enter ther name, school, and their year un school. Moreover, users can enter how many pets they now have and whether they like to have more pets.
 
 App Walk-though
-TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
-<p><img align="right" src="https://github.com/GraceLiuTQ/Grace-Liu-s-First-iOS-App/blob/main/Codepath%20prework%20walk%20through.gif" width="500" height="320" /></p>
+<p><img align="right" src="https://github.com/GraceLiuTQ/Grace-Liu-s-First-iOS-App/blob/main/Codepath%20prework%20walk%20through.gif"  /></p>
 
 
 Required Features
