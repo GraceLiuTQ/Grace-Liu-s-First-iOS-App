@@ -2,7 +2,7 @@
 Codepath pre-work: creating my first iOS App
 
 App Description
-This app allows users to enter ther name, school, and their year un school. Moreover, users can enter how many pets they now have and whether they like to have more pets.
+This app allows users to enter their name, school, and their year un school. Moreover, users can enter how many pets they now have and whether they like to have more pets.
 
 App Walk-though
 <p><img align="right" src="https://github.com/GraceLiuTQ/Grace-Liu-s-First-iOS-App/blob/main/Codepath%20prework%20walk%20through.gif"  /></p>
